@@ -1,0 +1,44 @@
+# Logo (Font Awesome Class)
+fa_logo: fa-cube
+
+# Header
+menu:
+  首页: /
+  存档: /archives
+  关于: /about.html
+  标签: /tags
+  分类: /categories
+  联系: /contact.html
+
+# Default post title
+default_post_title: Untitled
+
+# Archive Date Format
+archive_date_format: YYYY-MM-DD
+
+# Comments.
+comments:
+  # Disqus comments
+  disqus_shortname:
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+#twitter_url: https://twitter.com/?lang=en
+#facebook_url: https://www.facebook.com/
+#instagram_url: https://www.instagram.com/
+#dribble_url: https://dribbble.com/
+#github_url: https://github.com/klugjo/hexo-theme-alpha-dust
+#googleplus_url: https://plus.google.com/
+#behance_url: https://www.behance.net/
+#fivehundredpx_url: https://500px.com/
+#email_url: test@example.com
+#rss_url: \#
+
+# Footer About Text
+footer_about: "我是袁福, I am frank<br>爱记录,爱分享,爱生活"
+
+# Footer Copyright Line
+footer_copyright: "©2016 - 2019 ❤️ Frank"
+
