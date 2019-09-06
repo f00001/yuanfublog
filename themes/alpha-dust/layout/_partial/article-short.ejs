@@ -22,11 +22,11 @@
         </div>
     </div>
 
-    <% if(item.excerpt) { %>
+        <% if(item.excerpt) { %>
         <div class="content">
             <%- item.excerpt %>
         </div>
-        <a href="<%- url_for(item.path) %>" class="read-more">Read More</a>
+        <a href="<%- url_for(item.path) %>" class="read-more">更多>></a>
     <% } else { %>
         <div class="content">
             <%- item.content %>
